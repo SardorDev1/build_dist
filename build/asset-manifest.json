@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.18352f56.css",
+    "main.js": "/static/js/main.a2adf217.js",
+    "static/js/732.354f844e.chunk.js": "/static/js/732.354f844e.chunk.js",
+    "static/js/486.8504714f.chunk.js": "/static/js/486.8504714f.chunk.js",
+    "static/media/videos.mp4": "/static/media/videos.50baa1f7b2d579709a18.mp4",
+    "static/media/music.mp3": "/static/media/music.76d2565b827e268f20c2.mp3",
+    "static/media/about.mp4": "/static/media/about.59fcd0e9a02b03eb6839.mp4",
+    "static/media/kaushan-script-all-400-normal.woff": "/static/media/kaushan-script-all-400-normal.ba623d1ca520a2a711d2.woff",
+    "static/media/logo192s.png": "/static/media/logo192s.bb412c1f0ed5050c9a24.png",
+    "static/media/sirin-stencil-all-400-normal.woff": "/static/media/sirin-stencil-all-400-normal.e1b8add18154b5d65682.woff",
+    "static/media/kaushan-script-latin-400-normal.woff2": "/static/media/kaushan-script-latin-400-normal.2855d49bba6b2cb7bec5.woff2",
+    "static/media/sirin-stencil-latin-400-normal.woff2": "/static/media/sirin-stencil-latin-400-normal.f668f96beabdc683277b.woff2",
+    "static/media/kaushan-script-latin-ext-400-normal.woff2": "/static/media/kaushan-script-latin-ext-400-normal.5a05e21384fe4b1b9db7.woff2",
+    "index.html": "/index.html",
+    "main.18352f56.css.map": "/static/css/main.18352f56.css.map",
+    "main.a2adf217.js.map": "/static/js/main.a2adf217.js.map",
+    "732.354f844e.chunk.js.map": "/static/js/732.354f844e.chunk.js.map",
+    "486.8504714f.chunk.js.map": "/static/js/486.8504714f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.18352f56.css",
+    "static/js/main.a2adf217.js"
+  ]
+}
